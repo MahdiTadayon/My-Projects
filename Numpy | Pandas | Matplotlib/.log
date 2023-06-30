@@ -58,3 +58,9 @@
 2023-06-29 15:24:17,103 [16916] DEBUG    parso.python.diff:296: [JupyterRequire] -> code[replace] old[1:3] new[1:2]
 2023-06-29 15:24:17,105 [16916] DEBUG    parso.python.diff:421: [JupyterRequire] parse_part from 1 to 2 (to 1 in part parser)
 2023-06-29 15:24:17,105 [16916] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-30 09:18:34,033 [5817] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-06-30 09:18:34,034 [5817] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-06-30 09:18:34,034 [5817] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-06-30 09:18:34,035 [5817] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-06-30 09:18:34,035 [5817] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-06-30 09:18:34,035 [5817] DEBUG    root:97: [JupyterRequire] Registering comm targets.
