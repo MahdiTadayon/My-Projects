@@ -22,3 +22,54 @@
 2023-07-03 15:57:48,827 [17456] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
 2023-07-03 15:57:48,827 [17456] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
 2023-07-03 15:57:48,827 [17456] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-07-03 18:48:52,504 [35014] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-07-03 18:48:52,504 [35014] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-07-03 18:48:52,504 [35014] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-07-03 18:48:52,505 [35014] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-07-03 18:48:52,505 [35014] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-07-03 18:48:52,505 [35014] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-07-03 18:52:29,815 [35310] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-07-03 18:52:29,815 [35310] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-07-03 18:52:29,815 [35310] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-07-03 18:52:29,816 [35310] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-07-03 18:52:29,816 [35310] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-07-03 18:52:29,816 [35310] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-07-03 19:17:52,387 [35310] WARNING  py.warnings:109: [JupyterRequire] /home/mahdi/.local/lib/python3.9/site-packages/seaborn/distributions.py:2619: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+
+2023-07-03 19:17:57,931 [35310] WARNING  py.warnings:109: [JupyterRequire] /home/mahdi/.local/lib/python3.9/site-packages/seaborn/distributions.py:2619: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+
+2023-07-03 19:18:00,251 [35310] WARNING  py.warnings:109: [JupyterRequire] /home/mahdi/.local/lib/python3.9/site-packages/seaborn/distributions.py:2619: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+
+2023-07-03 19:18:15,875 [35310] WARNING  py.warnings:109: [JupyterRequire] /home/mahdi/.local/lib/python3.9/site-packages/seaborn/distributions.py:2619: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+
+2023-07-03 19:18:21,460 [35310] WARNING  py.warnings:109: [JupyterRequire] /home/mahdi/.local/lib/python3.9/site-packages/seaborn/distributions.py:2619: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+
+2023-07-03 19:18:37,107 [35310] WARNING  py.warnings:109: [JupyterRequire] /home/mahdi/.local/lib/python3.9/site-packages/seaborn/distributions.py:2619: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+
+2023-07-03 19:18:54,922 [35310] WARNING  py.warnings:109: [JupyterRequire] /home/mahdi/.local/lib/python3.9/site-packages/seaborn/distributions.py:2619: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+
+2023-07-03 20:49:51,381 [43854] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-07-03 20:49:51,382 [43854] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-07-03 20:49:51,382 [43854] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-07-03 20:49:51,383 [43854] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-07-03 20:49:51,383 [43854] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-07-03 20:49:51,383 [43854] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-07-03 20:53:38,129 [44106] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-07-03 20:53:38,129 [44106] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-07-03 20:53:38,129 [44106] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-07-03 20:53:38,130 [44106] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-07-03 20:53:38,131 [44106] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-07-03 20:53:38,131 [44106] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-07-03 21:23:51,565 [45078] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-07-03 21:23:51,565 [45078] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-07-03 21:23:51,565 [45078] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-07-03 21:23:51,566 [45078] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-07-03 21:23:51,567 [45078] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-07-03 21:23:51,567 [45078] DEBUG    root:97: [JupyterRequire] Registering comm targets.
